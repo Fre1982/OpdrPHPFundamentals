@@ -12,8 +12,6 @@
 
 // Instantiate a XMLWriter object:
 
-
-
 function updateRss($data){
   $xml = new XMLWriter();
   // Next open the file to which you want to write. For example, to write to /var/www/example.com/xml/output.xml, use:

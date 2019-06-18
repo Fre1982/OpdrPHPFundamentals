@@ -5,7 +5,7 @@ require_once 'inc/db.class.php';
 
 
   session_start();
-  // old variablen blanco waarde geven
+  // oude variabelen leeg meegeven
   $opost_id = "";  
   $otitle = "";
   $obody = "";

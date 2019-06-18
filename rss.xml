@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+ <channel>
+  <title>News Cast</title>
+  <link>www.myRssFeeds.be</link>
+  <description>NewsCast</description>
+  <language>nl</language>
+  <image>
+   <title></title>
+   <link></link>
+   <url></url>
+   <width></width>
+   <height></height>
+  </image>
+  <item>
+   <title>test</title>
+   <pubDate>2019-06-13</pubDate>
+   <description>dit is een testje</description>
+   <author></author>
+   <comments></comments>
+   <category></category>
+   <author></author>
+   <enclosure url="http://www.myRssFeeds.be/podcast.mp4" length="19741854" type="video/mpeg"/>
+  </item>
+  <item>
+   <title>abc</title>
+   <pubDate>2019-06-21</pubDate>
+   <description>xyz</description>
+   <author></author>
+   <comments></comments>
+   <category></category>
+   <author></author>
+   <enclosure url="http://www.myRssFeeds.be/podcast.mp4" length="19741854" type="video/mpeg"/>
+  </item>
+  <item>
+   <title>geen titel</title>
+   <pubDate>2019-06-28</pubDate>
+   <description>geen bericht</description>
+   <author></author>
+   <comments></comments>
+   <category></category>
+   <author></author>
+   <enclosure url="http://www.myRssFeeds.be/podcast.mp4" length="19741854" type="video/mpeg"/>
+  </item>
+ </channel>
+</rss>
